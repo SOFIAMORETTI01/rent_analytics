@@ -204,7 +204,7 @@ def main():
             df["Barrio"] = df["Título"].apply(unificar_barrio)
 
             # CSV creation
-            df.to_csv("scrape_argenprop.csv", index=False, encoding="utf-8-sig")
+            df.to_csv("data/scrape_argenprop.csv", index=False, encoding="utf-8-sig")
             print(f"✅ Archivo generado con {len(df)} publicaciones.")
 
 if __name__ == "__main__":
