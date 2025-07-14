@@ -4,6 +4,7 @@ This project collects rental listings from Argenprop, processes the data, and de
 
 It focuses on rental prices, expenses, and apartment features across neighborhoods in Capital Federal (CABA).
 
+[![View Dashboard](https://img.shields.io/badge/🔎%20View%20Dashboard%20Online-blue?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiYzUwZGIxZDctYjgzOC00YmI3LWExZWYtZmJjY2RjMDk1NTJiIiwidCI6IjNlMDUxM2Q2LTY4ZmEtNDE2ZS04ZGUxLTZjNWNkYzMxOWZmYSIsImMiOjR9)
 ---
 
 ## 🚀 Tech Stack
@@ -22,12 +23,6 @@ This scraper enables custom data pipelines to:
 - Compare prices per m2 across neighborhoods.
 - Detect underpriced or overpriced listings.
 - Build dashboards or machine learning models based on housing data.
-
----
-
-## 🌐 View Online
-
-[![View Dashboard](https://img.shields.io/badge/🔎%20View%20Dashboard%20Online-blue?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiYzUwZGIxZDctYjgzOC00YmI3LWExZWYtZmJjY2RjMDk1NTJiIiwidCI6IjNlMDUxM2Q2LTY4ZmEtNDE2ZS04ZGUxLTZjNWNkYzMxOWZmYSIsImMiOjR9)
 
 ---
 
