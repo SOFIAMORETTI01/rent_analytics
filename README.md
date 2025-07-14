@@ -28,3 +28,19 @@ This scraper enables custom data pipelines to:
 ## 🌐 View Online
 
 [![View Dashboard](https://img.shields.io/badge/🔎%20View%20Dashboard%20Online-blue?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiYzUwZGIxZDctYjgzOC00YmI3LWExZWYtZmJjY2RjMDk1NTJiIiwidCI6IjNlMDUxM2Q2LTY4ZmEtNDE2ZS04ZGUxLTZjNWNkYzMxOWZmYSIsImMiOjR9)
+
+---
+
+## 🛠️ How to Run Locally
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/SOFIAMORETTI01/rent_analytics.git
+   cd rent_analytics
+
+2. **Install dependencies:**
+   pip install -r requirements.txt
+
+3. **Run scripts:**
+   python script/scrape_argenprop.py
+   python script/scrape_argenprop_clustering.py
