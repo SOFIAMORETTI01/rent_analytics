@@ -39,8 +39,11 @@ This scraper enables custom data pipelines to:
    cd rent_analytics
 
 2. **Install dependencies:**
+   ```bash
    pip install -r requirements.txt
 
-3. **Run scripts:**
+4. **Run the scripts:**
+   ```bash
    python script/scrape_argenprop.py
    python script/scrape_argenprop_clustering.py
+
