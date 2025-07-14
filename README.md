@@ -19,7 +19,7 @@ It focuses on **rental prices**, **expenses**, and **apartment features** across
 This scraper enables custom data pipelines to:
 
 - Analyze rental trends.
-- Compare prices per square meter across neighborhoods.
+- Compare prices per m2 across neighborhoods.
 - Detect underpriced or overpriced listings.
 - Build dashboards or machine learning models based on housing data.
 
