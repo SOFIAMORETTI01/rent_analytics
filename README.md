@@ -1,6 +1,4 @@
-# rent_analytics
-
-# 🏙️ CABA Rental Market Analysis
+# 🏡 CABA rental market analysis
 
 This project scrapes rental listings from [Argenprop](https://www.argenprop.com/departamentos/alquiler/capital-federal), processes the data, and visualizes key insights using Power BI.
 
