@@ -40,7 +40,7 @@ This scraper enables custom data pipelines to:
 
 2. **Install dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install -r script/requirements.txt
 
 4. **Run the scripts:**
    ```bash
